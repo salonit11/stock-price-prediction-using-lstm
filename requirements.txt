@@ -1,0 +1,7 @@
+tensorflow>=2.11.0
+scikit-learn>=1.2.2
+TA-Lib==0.4.0
+ta>=0.10.2
+numpy>=1.23.5
+pandas>=1.5.3
+yfinance>=0.2.33
